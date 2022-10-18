@@ -9,4 +9,4 @@ add_executable(ACS130_Clion
         .idea/modules.xml
         .idea/vcs.xml
         .idea/workspace.xml
-        Q1c.c)
+        P1_Q2.c)
