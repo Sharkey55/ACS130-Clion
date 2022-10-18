@@ -1,0 +1,3 @@
+C:/Users/Brandon Sharkey/Documents/GitHub/ACS130-Clion/cmake-build-debug/CMakeFiles/ACS130_Clion.dir
+C:/Users/Brandon Sharkey/Documents/GitHub/ACS130-Clion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Brandon Sharkey/Documents/GitHub/ACS130-Clion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
